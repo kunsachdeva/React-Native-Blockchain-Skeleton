@@ -1,0 +1,27 @@
+{
+  "name": "react_native_blockchain_skeleton",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "canonical-weth": "^1.1.0",
+    "node-libs-react-native": "abec/node-libs-react-native",
+    "react": "^16.3.0-alpha.0",
+    "react-native": "0.55.0",
+    "truffle-contract": "3.0.2",
+    "truffle-hdwallet-provider": "0.0.3",
+    "web3": "0.20.5"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.1",
+    "babel-preset-react-native-stage-0": "^1.0.1",
+    "babel-preset-react-native-web3": "0.0.4",
+    "eslint": "^4.15.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-react": "^7.5.1",
+    "flow-bin": "^0.63.1"
+  }
+}

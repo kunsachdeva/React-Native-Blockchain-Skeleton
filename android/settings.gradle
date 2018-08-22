@@ -1,0 +1,3 @@
+rootProject.name = 'react_native_blockchain_skeleton'
+
+include ':app'
