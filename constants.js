@@ -1,0 +1,4 @@
+module.exports = {
+	MNEMONIC: 'YOUR_MNEMONIC',
+	MY_ADDRESS: 'YOUR_WALLET_ADDRESS'
+};
