@@ -9,7 +9,7 @@ __Warning: Storing `MNEMONIC` in 🔐 unecrypted format__
 1. `git clone https://github.com/kunsachdeva/React-Native-Blockchain-Skeleton.git`
 2. `npm install` or `yarn`
 3. Replace constants in `constants.js`
-4. `react-native run-android` or 3. `react-native ios`
+4. `react-native run-android` or `react-native ios`
 
 ## Explanation
 
